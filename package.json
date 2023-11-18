@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/superchris.plainjs-la3y2l8d-fork-lp4bg7y4",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve PfKYYD6pQaoSMl2EXRKW --open"
+  }
+}
